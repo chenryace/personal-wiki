@@ -82,6 +82,7 @@ export const sidebarConfig = {
   '/moneys/': getMarkdownFiles(path.join(__dirname, '../moneys'), '', ['', '']),
   '/it-serve/': getMarkdownFiles(path.join(__dirname, '../it-serve'), '', ['index', '', '', '', '']),
   '/classics/': getMarkdownFiles(path.join(__dirname, '../classics'), '', ['山', '医', '命', '相', '卜', '灵宠', '相关经典']),
+  '/h/': getMarkdownFiles(path.join(__dirname, '../h'), '', ['', '']),
 };
 
 // 导出 sidebar
