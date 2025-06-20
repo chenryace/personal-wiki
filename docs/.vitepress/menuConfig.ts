@@ -74,7 +74,7 @@ export const nav = [
     text: '测试test',
     link: '/h/',
     activeMatch: '^/h/'
-  },
+  }
 ];
 
 // 侧边栏配置，给每个目录指定不同的排序数组
